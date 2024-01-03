@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Foi realizado um exercício de correção das tags semânticas em um projeto já iniciado.
 
-- [Acesse o projeto finalizado, online](https://viniciuszmota.github.io/Exercicio-Bug-02-RS/)
+- [Acesse o projeto finalizado, online](https://viniciuszmota.github.io/Exercicio-de-semantica-e-acessibilidade-RS/)
 
 ---
 
